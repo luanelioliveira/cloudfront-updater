@@ -1,10 +1,11 @@
-# CloudFront Updater
+# Update Lambda Edge Versions
 
-CloudFront Updater is a project to update versions of Lambda@Edge in AWS CloudFront.
+
+This project is to update the Lambda@Edge versions in distributions of the AWS CloudFront.
 This application allows two ways to update distributions, which are:
 
-  - Update a CDN by id;
-  - Update all CDNs
+  - You can update version by CDN id;
+  - or update version of the all CDNs
 
 ## How to Run
 
